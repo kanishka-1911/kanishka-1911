@@ -47,11 +47,11 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/kanishka-m-b7aab3306"">
+  <a href="https://www.linkedin.com/in/kanishka-m-b7aab3306/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <img width="15" />
-  <a href="https://leetcode.com/u/kanishka_1911/">
+  <a href="https://leetcode.com/u/kanishka_1911/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
   </a>
 </p>
