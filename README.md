@@ -51,7 +51,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <img width="15" />
-  <a href="https://leetcode.com/u/kanishka_1911/" target="_blank"  rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/Kanishka__M/" target="_blank"  rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
   </a>
 </p>
