@@ -56,10 +56,6 @@
   Spring Boot + MySQL integration for managing student placements.  
   [View Repository](https://github.com/kanishka-1911/placement-hub)
 
-- **Faculty Management System**  
-  REST APIs with Spring Boot, JPA, and MySQL.  
-  [View Repository](https://github.com/kanishka-1911/faculty-management)
-
 ---
 
 ##  Currently Exploring
@@ -88,10 +84,6 @@
 <div align="center">
   <!-- Streak -->
   <img height="160" src="https://streak-stats.demolab.com/?user=kanishka-1911&theme=tokyonight&hide_border=false" />
-  <!-- Overall Stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kanishka-1911&show_icons=true&theme=tokyonight" />
-  <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-1911&layout=compact&theme=tokyonight" />
 </div>
 
 ---
