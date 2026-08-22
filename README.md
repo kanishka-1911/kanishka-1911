@@ -1,18 +1,22 @@
 <h1 align="left">Hey there — I'm Kanishka 👋</h1>
 
-<p align="left">💻 Aspiring Web Developer | Learning Java & Frontend</p>
+<p align="left">💻 Aspiring Full‑Stack Developer | Java, Spring Boot & React</p>
 
 ---
 
 ## 👩🏻‍💻 About Me  
+
 <div style="display: flex; align-items: center;">
   <img align="right" height="180" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
   <p align="left">
-    I'm currently learning <strong>Java</strong> and <strong>frontend technologies like React</strong>.<br>
-    I love building user-friendly web interfaces and exploring new technologies.<br>
-    Step by step, I'm shaping my journey in the world of development 🚀.
+    Passionate learner | A believer in "Commit to the process, and the rest follows"<br><br>
+    I thrive on exploring new technologies, solving problems and building solutions that make an impact.  
+    My journey is all about growth, consistency, and embracing challenges.
   </p>
 </div>
+
+<br clear="right"/>
+
 
 <br clear="right"/>
 
@@ -23,11 +27,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="37" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="37" />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" />
   <img width="12" />
@@ -41,6 +47,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" />
 </div>
+
+---
+
+## 🚀 Projects
+
+- **Placement Hub Backend**  
+  Spring Boot + MySQL integration for managing student placements.  
+  [View Repository](https://github.com/kanishka-1911/placement-hub)
+
+- **Faculty Management System**  
+  REST APIs with Spring Boot, JPA, and MySQL.  
+  [View Repository](https://github.com/kanishka-1911/faculty-management)
+
+---
+
+##  Currently Exploring
+- Spring Boot REST APIs
+- Database design with MySQL
+- Backend + Frontend integration
 
 ---
 
@@ -61,12 +86,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<!-- Streak -->
+  <!-- Streak -->
   <img height="160" src="https://streak-stats.demolab.com/?user=kanishka-1911&theme=tokyonight&hide_border=false" />
-
+  <!-- Overall Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kanishka-1911&show_icons=true&theme=tokyonight" />
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-1911&layout=compact&theme=tokyonight" />
 </div>
 
 ---
-
 
 
