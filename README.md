@@ -9,7 +9,7 @@
 <div style="display: flex; align-items: center;">
   <img align="right" height="180" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
   <p align="left">
-    Passionate learner | A believer in "Commit to the process, and the rest follows"<br><br>
+    Passionate learner. <br>
     I thrive on exploring new technologies, solving problems and building solutions that make an impact.  
     My journey is all about growth, consistency, and embracing challenges.
   </p>
